@@ -1,0 +1,13 @@
+#main{
+display: grid;
+grid-template-columns: 65% 35%;
+grid-template-rows: 25vh 25vh 25vh 25vh 25vh;
+
+}
+#admin{
+    display: flex;
+    flex-direction: column;
+}
+#last{
+    display: flex;
+}
